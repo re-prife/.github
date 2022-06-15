@@ -6,6 +6,11 @@
 ### APP
 - Kotlin  
 - Android Studio
+- MVVM Pattern
+- Retrofit2, OkHttp
+- ZXing Library
+
+
 ### BackEnd
 - Java 11
 - Spring boot 2.6.7
