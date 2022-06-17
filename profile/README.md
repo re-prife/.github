@@ -9,6 +9,7 @@
 - MVVM Pattern
 - Retrofit2, OkHttp
 - ZXing Library
+- Coroutine
 
 
 ### BackEnd
