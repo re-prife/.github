@@ -19,3 +19,6 @@
 - Swagger UI 3
 - AWS ec2
 - AWS RDS
+- Codecov
+- Node.js 14
+- Socket.IO
