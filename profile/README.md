@@ -22,3 +22,9 @@
 - Codecov
 - Node.js 14
 - Socket.IO
+
+### 서비스 소개
+![image](https://user-images.githubusercontent.com/69101860/175816264-d31de5e0-b5a3-4dde-a87c-524055693b26.png)
+![image](https://user-images.githubusercontent.com/69101860/175816265-bd277940-77d3-4ec2-b055-feadcf03855b.png)
+![image](https://user-images.githubusercontent.com/69101860/175816273-827decee-ae8f-4228-8f2b-57c5620127dc.png)
+![image](https://user-images.githubusercontent.com/69101860/175816275-a7cde9b6-601c-4b38-80a6-1453cf95fd11.png)
